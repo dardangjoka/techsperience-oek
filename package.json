@@ -1,0 +1,22 @@
+{
+  "name": "techsperience-oek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dardangjoka/techsperience-oek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dardangjoka/techsperience-oek/issues"
+  },
+  "homepage": "https://github.com/dardangjoka/techsperience-oek#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
